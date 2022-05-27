@@ -4,3 +4,5 @@ App Android Nativo para Simulação de Partidas. Este repositorio foi organizado
 
 1. Desenvolvimento Mobile Nativo para Android
       - [release/desenvolvimento-mobilide-para-android](https://github.com/WilliViana/matches.simulador.app/tree/release/componentes-layouts-ui-ux-em-apps-android)
+2. Componentes, Layouts e UI/UX Em App Android
+      - [release/componentes-layouts-ui-ux-em-apps-android-new]([https://github.com/WilliViana/matches.simulador.app/tree/release/componentes-layouts-ui-ux-em-apps-android](https://github.com/WilliViana/matches.simulador.app/tree/release/componentes-layouts-ui-ux-em-apps-android-new)
